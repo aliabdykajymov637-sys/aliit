@@ -1,0 +1,88 @@
+C:\Users\afeaa\Desktop\HelpDesk\HelpDesk\bin\Debug\HelpDesk.exe.config
+C:\Users\afeaa\Desktop\HelpDesk\HelpDesk\bin\Debug\HelpDesk.exe
+C:\Users\afeaa\Desktop\HelpDesk\HelpDesk\bin\Debug\HelpDesk.pdb
+C:\Users\afeaa\Desktop\HelpDesk\HelpDesk\obj\Debug\HelpDesk.csproj.AssemblyReference.cache
+C:\Users\afeaa\Desktop\HelpDesk\HelpDesk\obj\Debug\Views\LoginWindow.baml
+C:\Users\afeaa\Desktop\HelpDesk\HelpDesk\obj\Debug\Views\MainWindow.baml
+C:\Users\afeaa\Desktop\HelpDesk\HelpDesk\obj\Debug\Views\LoginWindow.g.cs
+C:\Users\afeaa\Desktop\HelpDesk\HelpDesk\obj\Debug\Views\MainWindow.g.cs
+C:\Users\afeaa\Desktop\HelpDesk\HelpDesk\obj\Debug\Views\TicketCreateWindow.g.cs
+C:\Users\afeaa\Desktop\HelpDesk\HelpDesk\obj\Debug\Views\TicketEditWindow.g.cs
+C:\Users\afeaa\Desktop\HelpDesk\HelpDesk\obj\Debug\App.g.cs
+C:\Users\afeaa\Desktop\HelpDesk\HelpDesk\obj\Debug\HelpDesk_MarkupCompile.cache
+C:\Users\afeaa\Desktop\HelpDesk\HelpDesk\obj\Debug\HelpDesk_MarkupCompile.lref
+C:\Users\afeaa\Desktop\HelpDesk\HelpDesk\obj\Debug\App.baml
+C:\Users\afeaa\Desktop\HelpDesk\HelpDesk\obj\Debug\Views\TicketCreateWindow.baml
+C:\Users\afeaa\Desktop\HelpDesk\HelpDesk\obj\Debug\Views\TicketEditWindow.baml
+C:\Users\afeaa\Desktop\HelpDesk\HelpDesk\obj\Debug\HelpDesk.g.resources
+C:\Users\afeaa\Desktop\HelpDesk\HelpDesk\obj\Debug\HelpDesk.Properties.Resources.resources
+C:\Users\afeaa\Desktop\HelpDesk\HelpDesk\obj\Debug\HelpDesk.csproj.GenerateResource.cache
+C:\Users\afeaa\Desktop\HelpDesk\HelpDesk\obj\Debug\HelpDesk.csproj.CoreCompileInputs.cache
+C:\Users\afeaa\Desktop\HelpDesk\HelpDesk\obj\Debug\HelpDesk.exe
+C:\Users\afeaa\Desktop\HelpDesk\HelpDesk\obj\Debug\HelpDesk.pdb
+S:\!ИСП 2191\Сафонов\HelpDesk_07\HelpDesk\HelpDesk\obj\Debug\HelpDesk.csproj.AssemblyReference.cache
+S:\!ИСП 2191\Сафонов\HelpDesk_07\HelpDesk\HelpDesk\obj\Debug\Views\LoginWindow.baml
+S:\!ИСП 2191\Сафонов\HelpDesk_07\HelpDesk\HelpDesk\obj\Debug\Views\MainWindow.baml
+S:\!ИСП 2191\Сафонов\HelpDesk_07\HelpDesk\HelpDesk\obj\Debug\Views\LoginWindow.g.cs
+S:\!ИСП 2191\Сафонов\HelpDesk_07\HelpDesk\HelpDesk\obj\Debug\Views\MainWindow.g.cs
+S:\!ИСП 2191\Сафонов\HelpDesk_07\HelpDesk\HelpDesk\obj\Debug\Views\TicketCreateWindow.g.cs
+S:\!ИСП 2191\Сафонов\HelpDesk_07\HelpDesk\HelpDesk\obj\Debug\Views\TicketEditWindow.g.cs
+S:\!ИСП 2191\Сафонов\HelpDesk_07\HelpDesk\HelpDesk\obj\Debug\App.g.cs
+S:\!ИСП 2191\Сафонов\HelpDesk_07\HelpDesk\HelpDesk\obj\Debug\HelpDesk_MarkupCompile.cache
+S:\!ИСП 2191\Сафонов\HelpDesk_07\HelpDesk\HelpDesk\obj\Debug\HelpDesk_MarkupCompile.lref
+S:\!ИСП 2191\Сафонов\HelpDesk_07\HelpDesk\HelpDesk\obj\Debug\HelpDesk.exe
+S:\!ИСП 2191\Сафонов\HelpDesk_07\HelpDesk\HelpDesk\obj\Debug\HelpDesk.pdb
+S:\!ИСП 2191\Сафонов\HelpDesk_07\HelpDesk\HelpDesk\obj\Debug\Views\TicketEditWindow.baml
+S:\!ИСП 2191\Сафонов\HelpDesk_07\HelpDesk\HelpDesk\bin\Debug\HelpDesk.exe.config
+S:\!ИСП 2191\Сафонов\HelpDesk_07\HelpDesk\HelpDesk\bin\Debug\HelpDesk.exe
+S:\!ИСП 2191\Сафонов\HelpDesk_07\HelpDesk\HelpDesk\bin\Debug\HelpDesk.pdb
+S:\!ИСП 2191\Сафонов\HelpDesk_07\HelpDesk\HelpDesk\obj\Debug\Views\TicketCreateWindow.baml
+S:\!ИСП 2191\Сафонов\HelpDesk_07\HelpDesk\HelpDesk\obj\Debug\App.baml
+S:\!ИСП 2191\Сафонов\HelpDesk_07\HelpDesk\HelpDesk\obj\Debug\HelpDesk.g.resources
+S:\!ИСП 2191\Сафонов\HelpDesk_07\HelpDesk\HelpDesk\obj\Debug\HelpDesk.Properties.Resources.resources
+S:\!ИСП 2191\Сафонов\HelpDesk_07\HelpDesk\HelpDesk\obj\Debug\HelpDesk.csproj.GenerateResource.cache
+S:\!ИСП 2191\Сафонов\HelpDesk_07\HelpDesk\HelpDesk\obj\Debug\HelpDesk.csproj.CoreCompileInputs.cache
+C:\Users\afeaa\Desktop\Новая папка\HelpDesk\bin\Debug\HelpDesk.exe.config
+C:\Users\afeaa\Desktop\Новая папка\HelpDesk\bin\Debug\HelpDesk.exe
+C:\Users\afeaa\Desktop\Новая папка\HelpDesk\bin\Debug\HelpDesk.pdb
+C:\Users\afeaa\Desktop\Новая папка\HelpDesk\obj\Debug\HelpDesk.csproj.AssemblyReference.cache
+C:\Users\afeaa\Desktop\Новая папка\HelpDesk\obj\Debug\Views\LoginWindow.baml
+C:\Users\afeaa\Desktop\Новая папка\HelpDesk\obj\Debug\Views\MainWindow.baml
+C:\Users\afeaa\Desktop\Новая папка\HelpDesk\obj\Debug\Views\TicketCreateWindow.baml
+C:\Users\afeaa\Desktop\Новая папка\HelpDesk\obj\Debug\Views\TicketEditWindow.baml
+C:\Users\afeaa\Desktop\Новая папка\HelpDesk\obj\Debug\Views\LoginWindow.g.cs
+C:\Users\afeaa\Desktop\Новая папка\HelpDesk\obj\Debug\Views\MainWindow.g.cs
+C:\Users\afeaa\Desktop\Новая папка\HelpDesk\obj\Debug\Views\TicketCreateWindow.g.cs
+C:\Users\afeaa\Desktop\Новая папка\HelpDesk\obj\Debug\Views\TicketEditWindow.g.cs
+C:\Users\afeaa\Desktop\Новая папка\HelpDesk\obj\Debug\App.g.cs
+C:\Users\afeaa\Desktop\Новая папка\HelpDesk\obj\Debug\HelpDesk_MarkupCompile.cache
+C:\Users\afeaa\Desktop\Новая папка\HelpDesk\obj\Debug\HelpDesk_MarkupCompile.lref
+C:\Users\afeaa\Desktop\Новая папка\HelpDesk\obj\Debug\App.baml
+C:\Users\afeaa\Desktop\Новая папка\HelpDesk\obj\Debug\HelpDesk.g.resources
+C:\Users\afeaa\Desktop\Новая папка\HelpDesk\obj\Debug\HelpDesk.Properties.Resources.resources
+C:\Users\afeaa\Desktop\Новая папка\HelpDesk\obj\Debug\HelpDesk.csproj.GenerateResource.cache
+C:\Users\afeaa\Desktop\Новая папка\HelpDesk\obj\Debug\HelpDesk.csproj.CoreCompileInputs.cache
+C:\Users\afeaa\Desktop\Новая папка\HelpDesk\obj\Debug\HelpDesk.exe
+C:\Users\afeaa\Desktop\Новая папка\HelpDesk\obj\Debug\HelpDesk.pdb
+S:\!ИСП 2191\Матаев\Новая папка\HelpDesk\bin\Debug\HelpDesk.exe.config
+S:\!ИСП 2191\Матаев\Новая папка\HelpDesk\bin\Debug\HelpDesk.exe
+S:\!ИСП 2191\Матаев\Новая папка\HelpDesk\bin\Debug\HelpDesk.pdb
+S:\!ИСП 2191\Матаев\Новая папка\HelpDesk\obj\Debug\HelpDesk.csproj.AssemblyReference.cache
+S:\!ИСП 2191\Матаев\Новая папка\HelpDesk\obj\Debug\Views\LoginWindow.baml
+S:\!ИСП 2191\Матаев\Новая папка\HelpDesk\obj\Debug\Views\MainWindow.baml
+S:\!ИСП 2191\Матаев\Новая папка\HelpDesk\obj\Debug\Views\TicketCreateWindow.baml
+S:\!ИСП 2191\Матаев\Новая папка\HelpDesk\obj\Debug\Views\TicketEditWindow.baml
+S:\!ИСП 2191\Матаев\Новая папка\HelpDesk\obj\Debug\Views\LoginWindow.g.cs
+S:\!ИСП 2191\Матаев\Новая папка\HelpDesk\obj\Debug\Views\MainWindow.g.cs
+S:\!ИСП 2191\Матаев\Новая папка\HelpDesk\obj\Debug\Views\TicketCreateWindow.g.cs
+S:\!ИСП 2191\Матаев\Новая папка\HelpDesk\obj\Debug\Views\TicketEditWindow.g.cs
+S:\!ИСП 2191\Матаев\Новая папка\HelpDesk\obj\Debug\App.g.cs
+S:\!ИСП 2191\Матаев\Новая папка\HelpDesk\obj\Debug\HelpDesk_MarkupCompile.cache
+S:\!ИСП 2191\Матаев\Новая папка\HelpDesk\obj\Debug\HelpDesk_MarkupCompile.lref
+S:\!ИСП 2191\Матаев\Новая папка\HelpDesk\obj\Debug\App.baml
+S:\!ИСП 2191\Матаев\Новая папка\HelpDesk\obj\Debug\HelpDesk.g.resources
+S:\!ИСП 2191\Матаев\Новая папка\HelpDesk\obj\Debug\HelpDesk.Properties.Resources.resources
+S:\!ИСП 2191\Матаев\Новая папка\HelpDesk\obj\Debug\HelpDesk.csproj.GenerateResource.cache
+S:\!ИСП 2191\Матаев\Новая папка\HelpDesk\obj\Debug\HelpDesk.csproj.CoreCompileInputs.cache
+S:\!ИСП 2191\Матаев\Новая папка\HelpDesk\obj\Debug\HelpDesk.exe
+S:\!ИСП 2191\Матаев\Новая папка\HelpDesk\obj\Debug\HelpDesk.pdb
